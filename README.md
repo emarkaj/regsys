@@ -1,4 +1,4 @@
-# regsys
+# registrationsystem
 simple login-registration system
 
 Introductory C++ project. Code will ask for username and password.
